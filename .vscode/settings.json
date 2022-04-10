@@ -1,0 +1,20 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "CMakeFiles/": true,
+        ".gitignore": true,
+        ".gitmodules": true,
+        "glfw-project": true,
+        "LICENSE": true,
+        "Makefile": true,
+        "*.cmake": true,
+        "CMake*.txt": true,
+        "*.sh": true,
+        "glfw/": true,
+    }
+}
